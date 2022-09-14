@@ -1,0 +1,9 @@
+language: csharp
+mono: none
+dotnet: 2.1.502
+cache: ccache
+solution: solution-name.sln
+
+script:
+  - dotnet restore
+  - dotnet test
