@@ -1,5 +1,4 @@
-language: csharp
-
+language: c
 dotnet: 2.1.502
 cache: ccache
 solution: solution-name.sln
