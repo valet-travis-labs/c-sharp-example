@@ -1,5 +1,5 @@
 language: c
-dotnet: 2.1.502
+mono: none
 cache: ccache
 solution: solution-name.sln
 
